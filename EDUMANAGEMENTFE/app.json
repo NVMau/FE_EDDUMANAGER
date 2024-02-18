@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EDUMANAGEMENTFE",
+    "slug": "EDUMANAGEMENTFE",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "EDUMANAGEMENTFE"
+}
