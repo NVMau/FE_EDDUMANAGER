@@ -41,5 +41,3 @@ StudyHub is an online learning platform developed using Django for the backend a
     pip install -r requirements.txt
     ```
 
-4. Set upcom).
-
